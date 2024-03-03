@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working at Kamsoft Podlasie
+- 🌱 I’m currently learning Pyhton
 
 <!--
 **pawel922r/pawel922r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
